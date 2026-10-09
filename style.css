@@ -130,6 +130,9 @@ button:hover {
 #repoTitle {
     color: #A855F7;
     text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #fff;
+    text-decoration-thickness: 0.09rem;
 }
 
 .visit:hover,
