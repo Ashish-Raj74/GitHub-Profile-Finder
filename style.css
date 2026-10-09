@@ -131,8 +131,9 @@ button:hover {
     color: #A855F7;
     text-align: center;
     text-decoration: underline;
-    text-decoration-color: #fff;
+    text-decoration-color: rgba(0, 245, 255, 0.5);
     text-decoration-thickness: 0.09rem;
+    text-decoration-style: dashed;
 }
 
 .visit:hover,
