@@ -1,4 +1,6 @@
 # GitHub Profile Finder
 
-A simple GitHub Profile Finder <br> built with HTML, CSS and JavaScript.
+
+ A simple and responsive GitHub Profile Finder built using HTML, CSS, and JavaScript. Search any GitHub username to view profile details and public repositories using the GitHub API.
+
 
