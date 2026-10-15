@@ -80,7 +80,6 @@ async function getProfile() {
         });
 
         message.textContent = "";
-        // error handling
     } catch (error) {
         message.textContent = "GitHub user not found.";
     }
